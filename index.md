@@ -1,6 +1,6 @@
 ## Welcome to Novak Space
 
-I would like to share what I gain from daily work and previous experience here, including some ideas on various OS, languages, trips and foods.
+I would like to share what I gained from daily work and previous experience here, including some ideas on various OS, languages, trips and foods.
 Of course I also need you tell me some stuffs about the defect or weakness of my idea so that I can know more about the truth of this world.
 
 
