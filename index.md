@@ -1,7 +1,10 @@
 ## Welcome to Novak Space
 
-You can use the [editor on GitHub](https://github.com/Novak-coder/Novak-coder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I would like to share what I gain from daily work and previous experience here, including some ideas on various OS, languages, trips and foods.
+Of course I also need you tell me some stuffs about the defect or weakness of my idea so that I can know more about the truth of this world.
 
+
+You can use the [editor on GitHub](https://github.com/Novak-coder/Novak-coder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -10,13 +13,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-I would like to share what I gain from daily work and previous experience here. Of course I alao need you tell me some stuffs about the defect or weakness of my idea so that I can know more about the truth of this world.
+I would like to share what I gain from daily work and previous experience here. 
+Of course I alao need you tell me some stuffs about the defect or weakness of 
+my idea so that I can know more about the truth of this world.
 
 
-The world is a chessboard on which we play the game that never supposed to be fair. 
-I hate to say this but it gets to decide what kind of role we start with when we come to this world. 
+The world is a chessboard on which we play the game that never supposed to be 
+fair. 
+I hate to say this but it gets to decide what kind of role we start with
+when we come to this world. 
 The world is not fair, but it doesn't make any less worthy of living. 
-So go play with what you have, carefully but boldly at the same time to unleash the unknow possibility of the life.
+So go play with what you have, carefully but boldly at the same time to 
+unleash the unknow possibility of the life.
 
 # Header 1
 ## Header 2
