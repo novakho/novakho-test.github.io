@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-Hi there! This is the "Novak Blog" created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Novak Ho</a>.
+Hi there! This is the "Novak's Blog" created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Novak Ho</a>.
 
 👀I’m interested in playing snooker 
 
@@ -16,5 +16,4 @@ Hi there! This is the "Novak Blog" created by <a rel="me" target="_blank" href="
 I would like to share what I gained from daily work and previous experience here, including some ideas on various OS, languages, trips and foods. Of course I also need you tell me some stuffs about the defect or weakness of my idea so that I can know more about the truth of this world.
 
 ---
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
-(Change this by editing `about.md` file)
+Powered by Novak Ho 2022
