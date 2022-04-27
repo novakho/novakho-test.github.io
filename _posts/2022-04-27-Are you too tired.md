@@ -12,7 +12,7 @@ Don't have enought energy?
 
 Don't have enough time? 
 
-Is that what's stopping you now?
+Is that what's stopping you right now?
 
 Don't have enough money?
 
@@ -52,13 +52,13 @@ Noboday handed me nohting
 
 Wake your ass up
 
-Awaked the beast inside
+Awaken the beast inside
 
 It's game on
 
 It's go season
 
-It's time for your to take advantage of the assess
+It's time for your to take advantage of the access
 
 and the resources that you have
 
