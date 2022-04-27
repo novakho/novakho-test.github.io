@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Supun Kavinda
+author: Someone who can enlighten you
 title: Are-you-too-tired
 ---
 ---
