@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Supun Kavinda
-title: Are you too tired
+title: Are-you-too-tired
 ---
 ---
 Are you too tired? 
